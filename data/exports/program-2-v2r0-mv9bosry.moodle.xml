@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name><text>2-1 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой из следующих этапов не относится к процессу проектирования образовательной программы?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Оценка эффективности программы является этапом оценки и аттестации образовательной программы, а не проектирования.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Анализ потребностей и целей]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Разработка учебного плана]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Оценка эффективности программы]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Составление концепции программы]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>2-2 З2.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой из принципов разработки образовательных программ подразумевает индивидуализацию обучения?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Принцип дифференциации подразумевает учет индивидуальных особенностей студентов и предоставление им возможности выбора в обучении.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Принцип гибкости]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Принцип целостности]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Принцип дифференциации]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Принцип последовательности]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>2-3 У1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой из следующих методов можно использовать для разработки плана и структуры образовательной программы?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Метод экспертного определения включает в себя использование мнений и знаний экспертов для разработки плана и структуры образовательной программы.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="100"><text><![CDATA[Метод экспертного определения]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Метод случайного выбора]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Метод анализа аналогий]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Метод свободного выбора]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>3-1 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой этап проектирования образовательных программ предполагает определение целей и задач программы?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Этап определения целей и задач программы является первым и важнейшим этапом проектирования. Он включает в себя анализ потребностей, установление целей и задач, а также формулирование ожидаемых результатов обучения.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Анализ потребностей]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Разработка содержания]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Определение целей и задач]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Разработка методов оценки]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>3-2 Н1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой метод оценки используется для оценки уровня знаний и навыков студентов в конце обучения?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Экзаменационная оценка используется для оценки уровня знаний и навыков студентов в конце обучения. Она включает в себя проведение экзаменов, тестирования и других формальных оценочных процедур.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Мониторинг процесса обучения]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Формативная оценка]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Экзаменационная оценка]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Самооценка]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>3-3 З2.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой подход к проектированию образовательных программ подчеркивает важность индивидуальных потребностей и способностей студентов?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Индивидуализированный подход к проектированию образовательных программ подчеркивает важность учета индивидуальных потребностей и способностей студентов. Этот подход направлен на создание программ, которые учитывают разнообразие студентов и их уникальные потребности.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Прикладной подход]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Социальный подход]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Индивидуализированный подход]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Теоретический подход]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>4-1 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой этап проектирования образовательной программы предполагает определение целей и задач программы?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Определение целей и задач является первым этапом проектирования образовательной программы, который помогает определить, что должно быть достигнуто после завершения программы.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Разработка содержания]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Анализ целевой аудитории]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Определение целей и задач]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Выбор методов оценки]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>4-2 У1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой из следующих планов не является основным элементом плана образовательной программы?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[План финансирования не является основным элементом плана образовательной программы. Основные элементы включают план учебного процесса, план оценки и аттестации, а также план обеспечения ресурсами.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[План учебного процесса]]></text></answer>
+    <answer fraction="0"><text><![CDATA[План оценки и аттестации]]></text></answer>
+    <answer fraction="100"><text><![CDATA[План финансирования]]></text></answer>
+    <answer fraction="0"><text><![CDATA[План обеспечения ресурсами]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>4-3 З2.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой из следующих подходов к разработке образовательной программы наиболее ориентирован на индивидуальные потребности студентов?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Индивидуализированный подход к разработке образовательной программы ориентирован на индивидуальные потребности и возможности студентов, что позволяет создавать программы, соответствующие их специфическим потребностям.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Традиционный подход]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Прикладной подход]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Индивидуализированный подход]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Профессиональный подход]]></text></answer>
+  </question>
+</quiz>

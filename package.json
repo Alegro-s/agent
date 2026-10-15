@@ -1,0 +1,14 @@
+{
+  "name": "edu-agent",
+  "version": "0.1.0",
+  "description": "ИИ-методист «Точка сборки»: MVP агента, который собирает образовательные программы по шаблонам АЦР на локальной модели Ollama",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node server.js",
+    "mock": "set EDU_LLM=mock&& node server.js",
+    "e2e": "node tests/e2e.js http://localhost:8787",
+    "vendor": "esbuild vendor-entry.js --bundle --platform=node --format=cjs --outfile=vendor/libs.cjs"
+  }
+}

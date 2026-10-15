@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name><text>1-1 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Что такое переменная в Python?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Переменная — это место в памяти компьютера, где можно хранить данные, такие как числа, слова или другие значения. Например, если вы хотите сохранить количество очков игрока в игре, вы можете создать переменную `score` и присвоить ей значение.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Это фраза, которую можно использовать в программе.]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Это место в памяти компьютера, где можно хранить данные.]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Это название функции, которая выполняет действия.]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Это условие, которое проверяет истинность или ложь.]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>1-2 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой оператор используется для сравнения значений в Python?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Оператор `==` используется для сравнения значений. Например, `x == 5` проверяет, равен ли `x` числу 5.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[print()]]></text></answer>
+    <answer fraction="0"><text><![CDATA[if]]></text></answer>
+    <answer fraction="100"><text><![CDATA[==]]></text></answer>
+    <answer fraction="0"><text><![CDATA[for]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>1-3 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Что делает цикл `for` в Python?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Цикл `for` повторяет выполнение кода определенное количество раз. Например, `for i in range(5): print(i)` выведет числа от 0 до 4.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Повторяет выполнение кода до тех пор, пока условие не станет ложным.]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Выполняет код определенное количество раз.]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Сравнивает два значения.]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Присваивает значение переменной.]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>1-4 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой оператор используется для выполнения блока кода при выполнении определенного условия?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Оператор `if` используется для выполнения блока кода при выполнении определенного условия. Например, `if x > 0: print('x положительное')` выполнит команду, если `x` больше 0.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[while]]></text></answer>
+    <answer fraction="100"><text><![CDATA[if]]></text></answer>
+    <answer fraction="0"><text><![CDATA[for]]></text></answer>
+    <answer fraction="0"><text><![CDATA[else]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>1-5 У2.1</text></name>
+    <questiontext format="html"><text><![CDATA[Что нужно сделать, чтобы проверить, работает ли программа правильно?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Чтобы проверить, работает ли программа правильно, нужно запустить программу и проверить результаты. Это называется тестированием программы. Например, если вы написали программу, которая считает сумму чисел, вы запустите ее и проверите, правильно ли она считает сумму.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="100"><text><![CDATA[Запустить программу и проверить результаты.]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Создать еще одну программу.]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Удалить все переменные.]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Изменить все операторы на функции.]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>1-6 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Что такое переменная в Python?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Переменная в Python — это ячейка памяти компьютера, где хранится значение. Например, если мы хотим сохранить количество очков игрока, мы можем создать переменную `score` и присвоить ей значение, например `score = 100`.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Это слово, которое мы используем для названия игры]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Это ячейка памяти компьютера, где хранится значение]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Это команда, которая выполняет действие]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Это название функции, которая выполняет вычисления]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>1-7 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Как называется операция сложения в Python?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Операция сложения в Python называется `add`. Например, `result = 5 + 3` будет равен `8`.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[addition]]></text></answer>
+    <answer fraction="0"><text><![CDATA[subtraction]]></text></answer>
+    <answer fraction="0"><text><![CDATA[multiplication]]></text></answer>
+    <answer fraction="100"><text><![CDATA[add]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>1-8 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой оператор используется для проверки условия в Python?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Оператор `if` используется для проверки условия. Например, `if score > 100: print('Победа!')` будет выполнено, если значение переменной `score` больше 100.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="100"><text><![CDATA[if]]></text></answer>
+    <answer fraction="0"><text><![CDATA[else]]></text></answer>
+    <answer fraction="0"><text><![CDATA[elif]]></text></answer>
+    <answer fraction="0"><text><![CDATA[for]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>1-9 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Что делает цикл `for` в Python?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Цикл `for` в Python выполняет действие определенное количество раз. Например, `for i in range(5): print(i)` выведет числа от 0 до 4.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[Повторяет действие до тех пор, пока условие не станет ложным]]></text></answer>
+    <answer fraction="100"><text><![CDATA[Выполняет действие определенное количество раз]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Выполняет действие один раз]]></text></answer>
+    <answer fraction="0"><text><![CDATA[Определяет функцию]]></text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>1-10 З1.1</text></name>
+    <questiontext format="html"><text><![CDATA[Какой тип данных используется для хранения целых чисел в Python?]]></text></questiontext>
+    <generalfeedback><text><![CDATA[Тип данных `integer` используется для хранения целых чисел в Python. Например, `age = 15` — это целое число.]]></text></generalfeedback>
+    <single>true</single><shuffleanswers>true</shuffleanswers>
+    <answer fraction="0"><text><![CDATA[string]]></text></answer>
+    <answer fraction="100"><text><![CDATA[integer]]></text></answer>
+    <answer fraction="0"><text><![CDATA[float]]></text></answer>
+    <answer fraction="0"><text><![CDATA[list]]></text></answer>
+  </question>
+</quiz>
